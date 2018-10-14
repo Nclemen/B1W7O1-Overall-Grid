@@ -65,7 +65,7 @@ p {
 }
 .item5 {
   grid-column: 1 / span 1;
-  margin-left: 70px
+  margin-left: 70px;
 }
 .item6 {
   grid-column: 2 / span 1;
